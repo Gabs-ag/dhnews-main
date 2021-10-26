@@ -10,9 +10,9 @@ main{
 }
 
 img{
-    width: 100%;
+    width: 70%;
     max-width: 800px;
-    margin: 0 auto 0 auto;
+    margin: 0 auto 30 auto;
     display: block
 }
 
@@ -27,7 +27,4 @@ body{
     background-color: rgb(189, 73, 19);
 }
 
-p{
-    text-align: justify;
-}
 
