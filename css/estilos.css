@@ -10,9 +10,9 @@ main{
 }
 
 img{
-    width: 70%;
+    width: 100%;
     max-width: 800px;
-    margin: 0 auto 30 auto;
+    margin: 0 auto 0 auto;
     display: block
 }
 
@@ -24,7 +24,6 @@ header{
 
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(189, 73, 19);
+    background-color: rgb(236, 240, 20);
 }
-
 
