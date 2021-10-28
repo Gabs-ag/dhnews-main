@@ -12,12 +12,26 @@ main{
 .destaque{
     width: 100%;
     max-width: 800px;
-    margin: 0 auto 0 auto;
+    margin: 0 auto;
     display: block
 }
+
+/* 960px de largura,
+Centralizado,
+Padding de 20px
+ícones centralizados (text-align: center) */
+
 footer img{
-    width: 32px
+    width: 40px;
+    margin: 0 10px;
     
+}
+
+footer{
+    width: 960px;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto 50px auto;
 }
 
 header{
@@ -28,7 +42,7 @@ header{
 
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(246, 125, 125);
+    background-color: rgb(246, 205, 21);
 }
 
 
