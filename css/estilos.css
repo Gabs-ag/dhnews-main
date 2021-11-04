@@ -16,10 +16,6 @@ main{
     display: block
 }
 
-/* 960px de largura,
-Centralizado,
-Padding de 20px
-ícones centralizados (text-align: center) */
 
 footer img{
     width: 40px;
@@ -38,11 +34,13 @@ header{
     font-size: 40px;
     color: rgb(197, 4, 4);
     font-weight: bold;
+    border-top: 2px rgba(255, 255, 255, 0.959) ;
+
 }
 
 body{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(246, 205, 21);
+    font-family: 'Rajdhani', sans-serif;
+    background-color: rgb(231, 134, 191);
 }
 
 
